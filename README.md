@@ -29,51 +29,6 @@ Open to **Junior Developer opportunities**.
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,express,threejs,git,vercel&theme=dark" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS, Node.js, Express, Three.js, Git, and Vercel" />
 </div>
 
----
-
-## Featured Projects
-
-<details open>
-<summary><strong>TurnState</strong> — interactive 3D Rubik’s Cube solver</summary>
-
-Turn notation, a physical 3D cube view, and solver playback into one browser workspace.
-
-**Stack:** TypeScript · Next.js · React · React Three Fiber · Three.js · Tailwind CSS
-
-- Solve valid cube states in a Web Worker and play the verified sequence step by step.
-- Interact through pointer, touch, and keyboard controls across responsive layouts.
-
-[Repository](https://github.com/ALaksell/TurnState) · [Live](https://turnstate.vercel.app)
-
-</details>
-
-<details>
-<summary><strong>German-Arabic-English Dictionary</strong> — multilingual vocabulary companion</summary>
-
-Search, practice, and review German vocabulary with Arabic and English translations.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Zustand · Fuse.js
-
-- Browse 4,785 entries across 66 categories.
-- Study with search, flashcards, practice rounds, favorites, and learned-word tracking.
-
-[Repository](https://github.com/ALaksell/German-Arabic-English-Dictionary) · [Live](https://german-arabic-english-dictionary.vercel.app)
-
-</details>
-
-<details>
-<summary><strong>DESTROUCH GEL</strong> — bilingual product ordering storefront</summary>
-
-A responsive Arabic and English product site with direct customer ordering.
-
-**Stack:** HTML · CSS · JavaScript · Node.js · Express · Microsoft SQL Server
-
-- Supports Arabic right-to-left presentation and responsive storefront layouts.
-- Sends orders through an Express endpoint for SQL Server-backed storage.
-
-[Repository](https://github.com/ALaksell/DESTROUCH-GEL) · [Live](https://destrouch-gel.vercel.app)
-
-</details>
 
 ---
 
