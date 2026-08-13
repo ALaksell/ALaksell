@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=150&section=header" alt="Indigo and violet header wave" width="100%" />
 
-<h1>Aksell</h1>
+<h1> Allali Aksell Abderrahmane</h1>
 
 <p><strong>Junior Developer</strong></p>
 
