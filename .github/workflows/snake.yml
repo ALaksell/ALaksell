@@ -7,8 +7,8 @@ on:
     paths:
       - ".github/workflows/snake.yml"
 
-  schedule:
-    - cron: "0 0 * * *"
+ schedule:
+  - cron: "0 */6 * * *"
 
   workflow_dispatch:
 
